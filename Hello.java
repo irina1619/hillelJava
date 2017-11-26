@@ -1,4 +1,3 @@
-package ai165.petlevannaya;
 
 public class Hello {
 
